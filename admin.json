@@ -1,5 +1,5 @@
 {
-  "prefix": "!",
+  "prefix": "/",
   "adminUIDs": [
    "your uid"
   ],
@@ -18,8 +18,8 @@
   "restartTime": 50,
   "FCA": "hut-chat-api",
   "loginpanel": {
-    "user": "your username in dashboard",
-    "password": "password your dashboard",
-    "passcode": "12345"
+    "user": "bogart123",
+    "password": "bogart123",
+    "passcode": "170993"
   }
 }
